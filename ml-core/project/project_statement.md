@@ -45,7 +45,7 @@ As the ML Developer assigned to the HR Department, you have been asked to create
   - Draw the bar plot of the Employee Project Count of both employees who left and stayed in the organization (use column number_project and hue column left), and give your inferences from the plot
 3. Perform clustering of employees who left based on their satisfaction and evaluation
   - Choose columns satisfaction_level, last_evaluation and left
-  - Do K-Means clustering of employees who left the company into 3 clusters?
+  - Do K-Means clustering of employees who left the company into 3 clusters
   - Based on the satisfaction and evaluation factors, give your thoughts on the employee clusters
 4. Handle the left Class Imbalance using the SMOTE technique
   - Pre-process the data by converting categorical columns to numerical columns by
